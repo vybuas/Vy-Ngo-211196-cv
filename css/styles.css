@@ -7,14 +7,14 @@
 
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #202030;
-	background-color: #f8f8fc;
+	color: #0869B5;
+	background-color: #AA46E9
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #F4CFA1;
+    background-color: #DD8319;
 }
 
 .resume-main {
@@ -48,4 +48,6 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.rounded-circle {
 }
