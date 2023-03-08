@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:"Open Sans";
 	color: #0869B5;
 	background-color: #AA46E9
 }
@@ -50,4 +50,9 @@ body {
 	flex-basis: 1.4em;
 }
 .rounded-circle {
+}
+.top {
+}
+.h2 {
+	font-size: 45px
 }
