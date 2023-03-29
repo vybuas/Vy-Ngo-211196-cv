@@ -22,7 +22,7 @@ html {
 }
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family:'IBM Plex Mono', monospace;
 	background-color: #ffffff;
 	color: #000020;
 	font-size: clamp(16px, 1.5vw, 20px);
@@ -105,7 +105,7 @@ footer {
 h1 {
 	font-size: clamp(28px, 3vh, 40px);
 	font-weight: 900;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'IBM Plex Mono', monospace;
 	writing-mode: vertical-lr;
 	transform:  rotate(180deg);
 }
@@ -172,7 +172,7 @@ h2 {
 	writing-mode: vertical-lr;
 	font-size: clamp(20px, 2.5vh, 36px);
 	font-weight: 900;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'IBM Plex Mono', monospace;
 }
 
 .resume-main h2 {

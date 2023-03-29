@@ -1,12 +1,12 @@
 /* Use this file to use your own styles*/
 
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
-@import url ('https://fonts.googleapis.com/css2?family=Khand:wght@700&family=Playfair+Display:wght@700&family=Raleway:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@200&display=swap');
 
 /* Styles for the body */
 
 body {
-	font-family: 'Raleway', sans-serif;
+	font-family:'IBM Plex Mono', monospace;
 	color: #0869B5;
 	background-color: #AA46E9
 }
